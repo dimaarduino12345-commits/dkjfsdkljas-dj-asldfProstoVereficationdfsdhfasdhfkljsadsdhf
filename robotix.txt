@@ -1,0 +1,6 @@
+#File robotix.txt for Prosto Verefication
+#The world was taken over by robots in 2077; after that, all humans were replaced by AI, and then 2077 was replaced with 2026.
+#
+google.com
+tiktok.com
+dpiunlock.com
